@@ -8,8 +8,8 @@
 ---
 
 🚀 **About Me**
-- 👨‍💻 I’m currently pursuing a **B.Sc. in Digital and Cyber Forensic Science** at Bharathiyar University (2022–2025).
-- 🛡️ I'm the **Founder & CEO of [Techie-Club](https://techie-club.in)** – Empowering the next generation of cybersecurity professionals.
+- 👨‍💻 I’m completed a **B.Sc. in Digital and Cyber Forensic Science** at Bharathiyar University (2022–2025).
+- 🛡️ I'm the **Founder & CEO of [Techie-Club](https://techieclub.netlify.app)** – Empowering the next generation of cybersecurity professionals.
 - ⚙️ I love building tools and automations in **Python**, especially for network scanning and ethical hacking.
 - 🌱 Currently exploring advanced techniques in **VAPT**, **IoT security**, and **cloud integrations**.
 - 🧠 Passionate about spreading knowledge via **internships, training, and automation bots**.
@@ -47,7 +47,7 @@
 
 📬 **Connect With Me**
 - 📧 Email: techiecluboffl@gmail.com
-- 🌐 Website: [techie-club.in](https://techie-club.in)
+- 🌐 Website: [techieclub.netlify.app](https://techie-club.in)
 - 🔗 LinkedIn: [linkedin.com/in/techie-club-4631492b7](https://linkedin.com/in/techie-club-4631492b7)
 - 🐙 GitHub: [github.com/techiearasu](https://github.com/techiearasu)
 
