@@ -105,11 +105,10 @@ class HackerToolkit:
 ### 🔥 **Featured Repositories**
 <div align="center">
 
-[![TechieClub Platform](https://github-readme-stats.vercel.app/api/pin/?username=techie-club&repo=techieclub-platform&theme=radical&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff&border_color=00f7ff)](https://github.com/techie-club)
-
-[![Network Scanner](https://github-readme-stats.vercel.app/api/pin/?username=techie-club&repo=network-scanner&theme=radical&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff&border_color=00f7ff)](https://github.com/techie-club)
+[![Profile Repository](https://github-readme-stats.vercel.app/api/pin/?username=techie-club&repo=techie-club&theme=radical&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff&border_color=00f7ff)](https://github.com/techie-club/techie-club)
 
 </div>
+
 
 ### 🛠️ **Project Arsenal**
 ```bash
