@@ -128,7 +128,7 @@ class HackerToolkit:
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_TechieClub-Website-00f7ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://techieclub.netlify.app)
+[![Website](https://img.shields.io/badge/🌐_TechieClub-Website-00f7ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://techieclub.in)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/techie-club-4631492b7)
 [![Email](https://img.shields.io/badge/📧_Contact-techiecluboffl@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techiecluboffl@gmail.com)
 
