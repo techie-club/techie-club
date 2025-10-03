@@ -58,7 +58,6 @@
 ![Progress](https://img.shields.io/badge/Completion-75%25-brightgreen)
 
 
-
 ## 🏆 Achievements
 
 ```bash
@@ -77,9 +76,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techie-club&show_icons=true&theme=radical&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff&border_color=00f7ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techie-club&layout=compact&theme=radical&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&border_color=00f7ff)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=techie-club&theme=react-dark&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=techie-club&show_icons=true&theme=radical&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff&border_color=00f7ff" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techie-club&layout=compact&theme=radical&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&border_color=00f7ff" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=techie-club&theme=react-dark&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
