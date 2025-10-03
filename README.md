@@ -57,17 +57,7 @@
 
 ![Progress](https://img.shields.io/badge/Completion-75%25-brightgreen)
 
----
 
-## 🔥 Featured Repositories
-
-<div align="center">
-[![Z3R Framework](https://github-readme-stats.vercel.app/api/pin/?username=techie-club&repo=z3r-framework&theme=radical&bg_color=0d1117&title_color=00f7ff)](https://github.com/techie-club/z3r-framework)
-[![Network Scanner](https://github-readme-stats.vercel.app/api/pin/?username=techie-club&repo=network-scanner&theme=radical&bg_color=0d1117&title_color=00f7ff)](https://github.com/techie-club/network-scanner)
-[![Voice Assistant](https://github-readme-stats.vercel.app/api/pin/?username=techie-club&repo=voice-assistant&theme=radical&bg_color=0d1117&title_color=00f7ff)](https://github.com/techie-club/voice-assistant)
-</div>
-
----
 
 ## 🏆 Achievements
 
